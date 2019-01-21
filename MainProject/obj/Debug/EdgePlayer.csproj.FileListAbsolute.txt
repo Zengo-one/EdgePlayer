@@ -1,0 +1,25 @@
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\bin\Debug\Edge Player.exe.config
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\bin\Debug\Edge Player.exe.manifest
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\bin\Debug\Edge Player.application
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\bin\Debug\Edge Player.exe
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\bin\Debug\Edge Player.pdb
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\bin\Debug\taglib-sharp.dll
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\bin\Debug\taglib-sharp.xml
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\EdgePlayer.csprojAssemblyReference.cache
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\MainWindow.g.cs
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\PassWindow.g.cs
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\App.g.cs
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\Edge Player_MarkupCompile.cache
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\Edge Player_MarkupCompile.lref
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\MainWindow.baml
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\PassWindow.baml
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\Edge Player.g.resources
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\EdgePlayer.Properties.Resources.resources
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\EdgePlayer.csproj.GenerateResource.cache
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\EdgePlayer.csproj.CoreCompileInputs.cache
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\Edge Player.exe.manifest
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\Edge Player.application
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\EdgePlayer.csproj.CopyComplete
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\Edge Player.exe
+C:\Users\Zengo_one\source\repos\EdgePlayer\MainProject\obj\Debug\Edge Player.pdb
